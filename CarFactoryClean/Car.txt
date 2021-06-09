@@ -1,0 +1,10 @@
+ Marka, cena w PLN: Alfa Romeo 200000
+ Pojemnosc i cena silnika w PLN : 3000_CC 50000
+ Kolor i cena w PLN: Red 2500
+ Rozmiar i cena w PLN  felg: 19' 1000
+ Cena do zaplaty: 253500
+ Marka, cena w PLN: Skoda + doplacimy stowe wez pan to od nas. 0
+ Pojemnosc i cena silnika w PLN : 1000_CC 5000
+ Kolor i cena w PLN: Black 500
+ Rozmiar i cena w PLN  felg: 15' 500
+ Cena do zaplaty: 6000
